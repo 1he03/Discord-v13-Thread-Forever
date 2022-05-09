@@ -1,4 +1,4 @@
-# Discord-Thread-Forever
+# Discord-v13-Thread-Forever
 
 # Install:
 ```
