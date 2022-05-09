@@ -1,3 +1,6 @@
 # Discord-Thread-Forever
 
-npm install
+# Install:
+```
+npm install --save
+```
